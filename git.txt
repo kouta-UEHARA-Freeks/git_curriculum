@@ -1,8 +1,2 @@
-<<<<<<< Updated upstream
-test message test
-Gitコミットテストテスト
-
-スタッシュ時に変更してコミットする
-=======
-スタッシュテスト
->>>>>>> Stashed changes
+２章課題用テキスト
+これはテストブランチのテキストです。
